@@ -1,0 +1,14 @@
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\GoogleFeedGenerator.exe.config
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\GoogleFeedGenerator.exe
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\GoogleFeedGenerator.pdb
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\EntityFramework.dll
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\GenericParsing.dll
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\EntityFramework.xml
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\bin\Debug\GenericParsing.xml
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\obj\Debug\GoogleFeedGenerator.csprojAssemblyReference.cache
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\obj\Debug\GoogleFeedGenerator.csproj.CoreCompileInputs.cache
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\obj\Debug\GoogleFeedGenerator.csproj.CopyComplete
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\obj\Debug\GoogleFeedGenerator.exe
+c:\users\kpardee\source\repos\GoogleFeedGenerator\GoogleFeedGenerator\obj\Debug\GoogleFeedGenerator.pdb
